@@ -1,5 +1,5 @@
  # 💫 About Me:
-🌱 I’m currently learning HTML<br>⚡ Fun fact I love FPS & horror video-games<br>📫 How to reach me leonardoferreira11247@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/LeooTech/
+🌱 I’m currently working on my journey to become a Web Developer<br>⚡ Fun fact I will post all my journey here!<br>📫 How to reach me leonardoferreira11247@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/LeooTech/
 
 
 ## 🌐 Socials:
