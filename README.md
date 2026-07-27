@@ -39,12 +39,7 @@
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%"> 
   <br> 
 </div> 
-
-<div align="center"> 
-  <p align="center"> 
-    ![snake gif](https://github.com/LeooTech/LeooTech/blob/output/github-contribution-grid-snake.gif) 
-  </p> 
-</div> 
+![snake gif](https://github.com/LeooTech/LeooTech/blob/output/github-contribution-grid-snake.gif)
 
 <br><br> 
 
