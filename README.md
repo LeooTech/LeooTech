@@ -42,7 +42,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/LeooTech/LeooTech/blob/output/github-contribution-grid-snake.svg" width="100%">
+  <img src="https://github.com/LeooTech/LeooTech/blob/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
