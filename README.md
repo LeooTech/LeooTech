@@ -1,4 +1,4 @@
-<a href="https://github.com/LeooTech"> <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/> </a> 
+<a href="https://github.com/LeooTech"> <img src="https://i.postimg.cc/7ZK6BpRh/Chat-GPT-Image-Jul-27-2026-03-34-26-AM.png" width="100%" alt="Synaptara Banner"/> </a> 
 
 <div align="center"> 
   <a href="https://github.com/LeooTech?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-22-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3TWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a> &nbsp; 
@@ -15,17 +15,8 @@
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;"> 
 
 <div align="justify"> 
-  <h3>Hey there! I’m Karthick</h3> 
-  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company. 
-  <br><br> 
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;"> 
-  <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;"> 
-  <h3>Top Projects (built to avoid manual labor)</h3> 
-  <a href="https://github.com/LeooTech/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br> 
-  <a href="https://github.com/LeooTech/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br> 
-  <a href="https://github.com/LeooTech/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard. 
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;"> 
-</div> 
+  <h3>Hey there! I’m Leoo</h3> 
+  I'm an student undergrad fueled by delusions and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I try to learn coding and not explode my head while doing it. When I'm not coding, I'm usually smacking people in GTA V or just straight up trolling Russians in CS2. 
 
 <br clear="left"/> 
 <br clear="right"/> 
